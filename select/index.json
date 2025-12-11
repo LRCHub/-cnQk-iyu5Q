@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "隆福丸",
+  "base_artist": "HY",
+  "createdAt": "2025-12-11T11:58:36.552363Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "隆福丸",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/01_隆福丸_HY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "隆福丸 (Rerecorded)",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/02_隆福丸_(Rerecorded)_HY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "隆福丸",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/pl_01_隆福丸_HY.txt"
+    }
+  ]
+}
